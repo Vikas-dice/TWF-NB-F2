@@ -1,0 +1,123 @@
+
+Vikas Chaudhary
+Btech 2017 cse 
+2- Sr Backend ENGG (java , springboot )
+3- edtech ( cb cn pepcoding )
+
+dice - tech lead 
+
+Syllabus 
+
+Website ?? 
+
+fswd - website ?web apps ? software ? tool ??
+
+fswd - tool/apps/softyware - web - broswer - chrome 
+
+
+FSWD - FE+BE 
+FE - client /broswer /ui /frontend 
+
+fe syllabus 
+- html
+-css 
+-js 
+
+vanilla framework- core - 
+companies - indutres = lib.framework
+react js - ui lib - facebook
+[angular js , vue js ..]
+
+
+
+BE - business logic 
+java python c# .net c++ ruby js 
+
+lib/framework
+Node js 
+express js 
+
+database - sql db nosql db 
+
+nosql - mongodb 
+MERN 
+
++DEVOPS - ECPSYSTEM - automate - sdlc 
+
+dev - 1 loc - code - tester - test - fail - code -- dev -- bugs free - tester-- test - pass -- deployment -- deploye - server ----end user 
+
+kubernets and docker  - real time 
+
+
+
+deployment - aws - amazon web services 
+google - gcp
+microsft - azure \
+
+
+system design - lld + hld 
+lld - oops 
+- design patterns 23
+-solid principles 
+
+----------------------------------------------------
+hld - case studies 
+
+
+DSA -
+
+
+
+observation 
+
+react + leetcode (150) == 6-8lpa 
+mern + leetcode (250)== 12-14lpa
+
+
+leetcode ( 400)== amazon - 50lpa
+leetcode (500) == microsft -40lpa
+
+leetcode (600)+ cp (optional) == google india 
+
+mern + devops(k8s and docker)+aws+sd(lld+hld)+ DSA
+
+------------------------------------------
+
+Util setup 
+
+- installa nd downlaod vs code 
+
+
+setting vs code 
+- auto save 
+- word wrap on 
+
+
+extension 
+
+1 - live server 
+2- prettier
+
+
+
+
+
+------------------------------------------------------------------
+
+client - server architecture
+request -response architecture
+
+
+
+HTML - 3
+CSS -12-15
+
+JS - 35-40 
+react- 20
+Backend- 35-40
+
+DSA SD CORE CS 
+-------------------------------------------------------------------
+
+
+

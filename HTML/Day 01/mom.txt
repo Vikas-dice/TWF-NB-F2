@@ -1,0 +1,51 @@
+
+Date 4th sept , 2024
+
+Last Class - Orientation , util and software setup/install , extensions and vs code setting 
+
+Module 1 - html 
+
+HTML - Hypertext Markup Lang 
+
+markup lang - document tags and annotations use 
+
+tags ?
+
+<hello>
+<vikas>
+
+Hypertext ?
+
+pillars beams 
+
+
+
+major tags - 3
+html 
+head 
+body 
+
+types of tags - 2
+paired tags - opening closing 
+self closing tags - closing 
+
+
+textual data 
+- heading H1 H2 H3 H4 H5 H6 
+-paragraph 
+-articles
+-list
+-table
+-images
+-anchor tags 
+etc misc 
+
+
+
+types of element - block and inline 
+
+
+list - 3 list
+1- ordered list
+2- unordered list
+3- descriptive list
