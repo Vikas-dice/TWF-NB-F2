@@ -1,0 +1,9 @@
+
+Date 6th Sept , 2024
+
+Last Class - html , basics , textual data [heading , paragraph, article, list(ordered , unordered , desc {hw}),anchor tag , image , ]
+
+- Table 
+-form {imp -html}
+
+Doubts ??
