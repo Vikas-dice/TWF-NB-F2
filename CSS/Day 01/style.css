@@ -1,0 +1,26 @@
+h1{
+    background-color: yellow;
+}
+
+p{
+    background-color: red;
+    color: green;
+}
+button{
+    background-color: orange;
+}
+div{
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+
+}
+.greenbox{
+    background-color: green;
+}
+.redbox{
+    background-color: red;
+}
+.yellowgreenbox{
+    background-color: yellowgreen;
+}

@@ -1,0 +1,83 @@
+/* .html{
+    background-color: orange;
+}
+.css{
+    background-color: blue;
+}
+.js{
+    background-color: aqua;
+}
+.react{
+    background-color: brown;
+}
+.node{
+    background-color: pink;
+}
+.express{
+    background-color: magenta;
+}
+.mongo{
+    background-color: yellowgreen;
+}
+p{
+    background-color: yellow;
+} */
+
+/* ul p{
+    background-color: yellow;
+} */
+
+/* 
+#ul1 p{
+    background-color: yellow;
+}
+
+#ul2 p{
+    background-color: red;
+} */
+
+/* #ul2 .js{
+    background-color: red;
+}
+
+#ul2 .node {
+    background-color: yellow;
+} */
+
+/* [class]{
+    background-color: green;
+} */
+/* 
+[id]{
+    background-color: orange;
+} */
+
+/* [vikas="chaudhary"]{
+    background-color: magenta ;
+} */
+
+/* [vikas="chaudhary"] .node{
+    background-color: yellowgreen;
+} */
+
+/* p{
+    /* background-color: brown; */
+    /* font-size: 32px;
+    font-weight: 900;
+    color: grey;
+    text-decoration: overline wavy;
+    text-align: center;
+    font-style: italic;
+    font-family: sans-serif; */
+  
+
+
+/* } */
+
+/* h1{
+    text-align: justify;
+} */ */
+
+li{
+    background-color: orange;
+}

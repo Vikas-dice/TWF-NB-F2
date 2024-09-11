@@ -1,0 +1,40 @@
+
+
+Date 10th sept, 2024
+
+Last Class - form 
+
+- Audio Video Tag html
+
+
+Doubt ??
+
+
+css link 3 
+1- internal css
+2-inline css
+3-external css
+
+
+1-inline css - 
+css- attribue -style 
+
+
+selectors 
+
+tagname {
+    property:value
+}
+
+
+tagname{
+    prop:value
+}
+
+#idname{
+    prop:value
+}
+
+.classanem{
+    prop:value
+}

@@ -1,0 +1,19 @@
+
+
+Date 11th sept,2024
+
+Last Class - css introduction , css linking  , inline , internal , external , css selectors(element selector,id selector , class selector)
+
+
+-Broswer html css ?
+-text -css props
+-priority 
+- extra selector - attribute selectors , pseduo selector,
+-cascade , specificity , inheritance 
+
+
+Doubts ?
+
+
+text property
+
