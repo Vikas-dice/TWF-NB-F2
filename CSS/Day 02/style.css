@@ -1,83 +1,93 @@
-/* .html{
-    background-color: orange;
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+body{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
 }
-.css{
-    background-color: blue;
+.navbar{
+    background-color: black;
+    color:white;
+    opacity: 0.7;
+    height:50px;
+    display: flex;
+    flex-direction: row;
+    border: 2px solid rgb(180, 9, 9);
+    gap:40px;
+    justify-content: flex-end;
+    font-weight: bold;
+    font-style: italic;
+    /* text-transform: uppercase;
+    text-decoration: underline;
+   text-shadow: 2px 4px 5px yellow; */
+   font-family: "Roboto Mono", monospace;
 }
-.js{
-    background-color: aqua;
+
+/* .outerdiv{
+    background-color: blanchedalmond;
+    color:red;
+    height:700px;
+    width:100%;
+    text-align: center;
+   padding:20px;
+   border: 2px solid red;
+
+   box-sizing: border-box;
+
+
+   display: flex;
+   flex-direction: row;
+  gap:120px;
+  justify-content: space-around;
+  align-items: start;
+  flex-wrap: wrap;
 }
-.react{
+
+.red{
     background-color: brown;
 }
-.node{
-    background-color: pink;
-}
-.express{
-    background-color: magenta;
-}
-.mongo{
-    background-color: yellowgreen;
-}
-p{
-    background-color: yellow;
-} */
 
-/* ul p{
-    background-color: yellow;
-} */
-
-/* 
-#ul1 p{
+.yellow{
     background-color: yellow;
 }
 
-#ul2 p{
-    background-color: red;
-} */
-
-/* #ul2 .js{
-    background-color: red;
+.green{
+    background-color: aquamarine;
 }
 
-#ul2 .node {
-    background-color: yellow;
+.innerdiv{
+    height: 200px;
+    width: 200px;
 } */
 
-/* [class]{
-    background-color: green;
-} */
-/* 
-[id]{
-    background-color: orange;
-} */
+.navbar p:hover{
+    color:hotpink;
+    font-size: 22px;
+}
 
-/* [vikas="chaudhary"]{
-    background-color: magenta ;
-} */
-
-/* [vikas="chaudhary"] .node{
-    background-color: yellowgreen;
-} */
-
-/* p{
-    /* background-color: brown; */
-    /* font-size: 32px;
-    font-weight: 900;
-    color: grey;
-    text-decoration: overline wavy;
-    text-align: center;
-    font-style: italic;
-    font-family: sans-serif; */
+a{
+    text-decoration: none;
+}
+a:link {
+    color: #FF0000;
+  }
   
+  /* visited link */
+  a:visited {
+    color: #00FF00;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #FF00FF;
+  }
+  
+  /* selected link */
+  a:active {
+    color: #0000FF;
+  }
 
 
-/* } */
 
-/* h1{
-    text-align: justify;
-} */ */
-
-li{
-    background-color: orange;
-}
+ p::first-line{
+    color:rgb(180, 9, 9);
+ }
