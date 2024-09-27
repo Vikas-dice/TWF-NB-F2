@@ -1,0 +1,107 @@
+
+
+git - tool/software 
+github - website 
+
+---------------------------------------------
+
+git - version controlling tool 
+
+version ?
+
+
+Project - Communication app 
+Feature - chat 
+Version 1 
+Feature - voice call 
+Version 2
+
+Feature - Video call 
+Version 3
+
+Feature - chat remove 
+version 4
+
+
+Situation - Project Communication app
+
+India 
+Comapny - xyz-India
+
+Development (coding)
+Testing 
+Server Deployment 
+Sales
+Marketing 
+
+Development - Frontend team + BACKEND team
+Frontend - SUB TEAM (FET1 , FET2,FET3)
+
+BACKEND - SUB TEAM (BET1,BET2)
+
+Testing - Manual Testing + Automation Testing
+Manual Testing team - sub teams (mt1 . mt2)
+AUtomation testing team - sub teams (at1 , at2)
+server deployment - multiples teama
+
+-------------------------------------------------
+
+US COMPANY 
+
+
+India - code - zip - drive - link - us team --- unzip - old code base =paste 
+Us team - code base - zip - drive - drive link - india - unzip - old code base - paste 
+
+
+
+version controlling tool - 
+
+
+step 1 - git -tool download and install
+testing - cmd - git -v 
+
+step 2 - configure system - locally /globally
+
+globlally 
+
+git config --global user.name "name"
+git config --global user.email"email"
+
+
+testing - git config --list
+
+
+
+
+git x
+
+ui version controlling - github website 
+
+
+step 1- github.com account
+'
+
+terms 
+1- repo /repository - new folder 
+2- commit - save 
+3- fork - complete Copy 
+4- branch - 
+
+
+situation - 
+vikas - Coomunication app
+
+fe+be+testing+server - vikas
+
+
+
+git config --global user.name "name"
+git config --global use.email "email"
+
+git config --list
+
+
+
+
+
+
