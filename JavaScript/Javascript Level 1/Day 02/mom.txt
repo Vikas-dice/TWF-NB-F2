@@ -1,0 +1,37 @@
+
+Date 1st oct , 2024
+
+
+Dry Day - 2nd oct 
+
+-----------------------------------------
+
+Last class - 
+
+1-Output
+2-input , variables - memory mgmt
+3- conditions ( if else else switch ternary)
+4-repeat - loops
+5- function 
+
+
+----------------------------
+
+    loops -
+
+    1- initiate
+    2-conditions/statementm 
+    3-update 
+
+
+
+1- for loops
+
+for(;;){
+
+}
+
+
+
+
+

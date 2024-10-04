@@ -1,0 +1,14 @@
+Date 4th oct , 2024
+
+Last Class - loops intr0, for , while , do while
+
+
+nested loops 
+break;
+continue;
+
+Patterns 
+
+
+Doubts ??
+

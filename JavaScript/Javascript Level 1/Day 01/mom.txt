@@ -1,0 +1,82 @@
+
+Date 27th Sept , 2024
+
+
+*** 4 class miss hojaygi - usko dev m bht dikkat peeda kasth sankat aajyga ***
+
+Level 1 - mere sath sath ghar jake revise - uski journey uskla safar bht acha rhen wala  h 
+
+-------------------------------------------------
+Js Introduction 
+History 
+
+
+Javascript - programming lang -> computation/mathematical task -> system communicate 
+
+- scripting lang - > ek aisi lang jo tumhari broswer p chal jaye - scripting lang 
+
+
+
+History 
+
+
+js - ecmascript 
+
+1995 - netscape broswer - each 
+js - 12-16 days - bugs 
+
+1996 - ie - apni wala js 
+
+
+
+Org - ECMA INTERNATION - internet communication - rprotocol
+
+ecma - net+ie
+
+
+ecmascript 
+java 
+javascript 
+
+
+broswer.
+
+- js /ecmascript- backward lang - purani kamiyo puri tarah hataya mahi gya 
+java =18
+
+
+js - var keyword 
+
+ var price =1000
+price -500 place 
+
+let const 
+
+
+
+mern =
+
+chrome - v8 engine - +extra feature ===> node js -- install 
+
+
+step 1 - installl node js 
+test cmd - node -v 
+
+---------------------
+
+c++ java python js ts ruby c# kotlin etc etc
+
+1-output
+2-input , variables
+3-conditionals
+4-repeat -loops
+5-function 
+
+---------------------------------------------
+
+
+
+
+
+
+
