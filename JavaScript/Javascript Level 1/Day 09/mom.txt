@@ -1,0 +1,25 @@
+
+
+Date 16th oct , 2024
+
+Last Class - Functions intro 
+
+Functions ?
+
+
+js history
+ecmascript
+node js 
+backward lang 
+es5 es6 
+variables
+ram - variables
+conditionals 
+break
+continue
+loops
+entry control, exit control loops
+
+
+
+
