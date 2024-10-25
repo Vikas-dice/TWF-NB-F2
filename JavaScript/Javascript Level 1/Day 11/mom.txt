@@ -1,0 +1,18 @@
+
+
+Date 18th oct , 2024
+
+Last Class - functions , es 5 ,es 6 
+
+Doubts??
+
+overview 
+
+
+
+pre and post 
+
+for(let i=1;i<=10;++i)
+
+
+

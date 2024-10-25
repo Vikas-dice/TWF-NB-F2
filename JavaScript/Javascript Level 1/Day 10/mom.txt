@@ -1,0 +1,53 @@
+
+
+Date 17th oct , 2024
+
+
+Last Class - Doubts /Test
+
+
+-Function continue
+
+2 category - es5 and es 6
+
+es5 
+1- function statement
+2- function expression
+3- anonymous function
+4-function with params
+5- function with return keyword 
+
+
+function 
+1- first class memebers - variable store
+2- DRY Principle 
+3- Modular code 
+4- Har function js k andrr kuch na kuch return krta 
+
+syntax 
+
+es5 
+
+function fname(){
+    ..kaam
+}
+
+fname();
+
+
+console.l0g("vikas)
+
+
+
+es6
+1- fat arrow function
+2- fat arrow with params
+3-fat arrow with return 
+4- fat arrow with implicit return
+
+
+syntax 
+
+()=>{
+    
+}
