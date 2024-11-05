@@ -1,0 +1,30 @@
+
+
+let emp1={
+    name:"vikas",
+    age:28,
+    salary:10000,
+    task:function(){
+        log("teaching)
+    }
+}
+
+let emp2={
+    name:"manas",
+    age:18,
+    salary:5000,
+    task:function(){
+        log("office boy)
+    }
+}
+
+let emp3={
+    name:"saviur",
+    age:30,
+    salary:10000,
+    task:function(){
+        log("operation)
+    }
+}
+
+function cons - cons-- new cheej - new object
