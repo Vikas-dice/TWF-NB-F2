@@ -1,0 +1,24 @@
+
+
+Date 5th nov , 2024
+
+Last Class - array continue
+
+
+Objects 
+
+Objects - 
+
+
+10 logo ki age store krni - array 
+10 logo ki multiples details store - fname, lnmae;age,salary,otherde,ismarried ?
+
+
+syntax 
+
+
+
+
+
+
+
