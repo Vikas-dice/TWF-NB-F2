@@ -1,0 +1,51 @@
+
+
+Date 13th nov , 2024
+
+Last Class - palindrome , reverse , asyn js syllabus 
+
+
+Syllabus 
+
+Async Js Intro
+Internal working of async js code
+callbacks
+issues with callbacks
+promises
+resolve 
+reject
+issues with promises
+Async await
+fetch api
+axios
+**oops in js 
+
+map filter reduce etc etc
+
+Misc- Interview question 
+
+
+dom js 
+
+
+javascript -
+scripiting language- browser p chal jaye 
+-single threaded lang 
+-synchronous lang - step by step 
+
+
+thread - ek kaam - ek process 
+
+
+java - multi thread language
+
+
+issues with callbacks
+1-code readblity issues/code maintance 
+2- Inversion of control
+3- pyramid of doom ( code hirixontally grow)
+
+
+
+
+
