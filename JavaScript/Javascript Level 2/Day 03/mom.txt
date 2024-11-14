@@ -1,0 +1,48 @@
+
+
+Date 14th nov, 2024
+
+Last class - Async js intro , callbacks , issues with callbacks
+
+solution - issues with callbacks
+
+Promise 
+
+Promise - waada - 
+
+situation - 
+
+shop - shopkeeper - xyz biscuit - 
+
+nahi h mere paas 
+abhi ruko leke aata hu- time _2-4sec period - biscuit - waada - 
+waada - nibha lia - biscuit 
+
+-vapas ghar aajaoge 
+
+
+-task1 - server se connect kro (5 sec )- promise -waada - server se connect hojaounga - tab m tujhe bta dunga 
+-task 2 - courses explore
+-task 3 - course select
+-task 4 - class lelo
+
+-task 5 - 1-10 print
+
+
+
+syntax 
+
+new Promise((resolve , reject)=>{
+
+})
+
+
+
+then , catch
+
+then - resolve 
+catch - reject
+
+
+multiple resolve kr skte ho ---- multiple then use kr skte
+lekin catch hmesha single use kroge (abhi k liye)
