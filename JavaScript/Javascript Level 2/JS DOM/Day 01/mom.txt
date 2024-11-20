@@ -1,0 +1,21 @@
+
+
+
+DOM =Document Object Model
+
+element selection -(queryselector,html(getelbyid,class,tag))
+events - mouse , keyboard , input , form event 
+-events - fire 
+
+
+
+element selection 
+
+1- html - getel,
+2- queryselector
+
+
+
+
+
+
