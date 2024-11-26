@@ -1,0 +1,14 @@
+
+
+Date 26th nov , 2024
+
+Last Class - DOM Intro
+
+
+Class 
+events - mouse keyboards form***
+
+
+
+Mouse events - click , dbclick, movemove , mouseover 
+

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .green{
+            color: green;
+            background-color: red;
+        }
+        .pink{
+            color: pink;
+            background-color: yellow;
+        }
+
+
+    </style>
+</head>
+<body>
+    <h1 class="heading">hello</h1>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat, saepe?</p>
+    <button>click me</button>
+
+    <script>
+
+        // const headingone=document.querySelector("h1")
+
+
+        // // console.log(headingone.className)
+        // // headingone.classList.add("pink")
+        // // console.log(headingone.className)
+        // headingone.className="pink"
+        // console.log(headingone.className)
+
+        let btn=document.querySelector("button")
+        let para =document.querySelector("p")
+
+
+        btn.onclick=function(){
+            para.className="green"
+        }
+
+        btn.ondblclick=function(){
+            para.className=""
+        }
+
+        
+    
+    </script>
+    
+</body>
+</html>

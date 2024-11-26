@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <div>
+        <!-- //h1 - vikas
+//button-click me -->
+
+    </div>
+
+    <script>
+        let mydiv=document.querySelector("div")
+        // console.log(mydiv)
+
+       const headingone= document.createElement("h1")
+       console.log(headingone)
+       headingone.innerText="vikas chaudhary";
+
+    //    mydiv.append(headingone)
+// const bdy=document.querySelector("body")
+// bdy.append(headingone)
+
+let merabutton=document.createElement("button")
+merabutton.innerText="click me "
+
+mydiv.prepend(merabutton)
+
+let merapara=document.createElement("p")
+merapara.innerText="hello vikas chaudhary dice acxadekmty"
+mydiv.appendChild(merapara)
+
+
+//innertext
+//innerhtml
+
+
+
+
+
+
+
+    </script>
+    
+</body>
+</html>
