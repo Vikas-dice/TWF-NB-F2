@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1>Char Counter Application</h1>
+
+    <textarea onkeyup="counter(event)"></textarea>
+    <script>
+        const txtarea=document.querySelector("textarea")
+        console.log(txtarea)
+        let bdy=document.querySelector("body")
+     const heading3=   document.createElement("h3")
+
+      const heading=  document.createElement("h2")
+      var count;
+
+        function counter(event){
+
+            let str=event.target.value;
+            if(str[str.length-1]===' '){
+                count=count-1;
+            return;
+           
+            }else{
+                count=count-1;
+             
+            count=event.target.value.length;
+
+            }
+
+
+        
+              
+
+       
+           
+         
+         
+      
+            // console.log(count)
+            heading.innerText=count;
+        }
+        // heading.innerText=count;
+        bdy.append(heading)
+heading3.innerText=count;
+// bdy.append(heading3.append(count))
+
+/*
+
+textarea - capital char - error some error
+
+textra - char - v - capital 
+
+
+*/
+
+
+        
+
+
+
+    </script>
+    
+</body>
+</html>
