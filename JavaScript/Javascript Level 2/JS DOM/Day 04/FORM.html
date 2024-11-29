@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <!-- <button >click me</button> -->
+     <form action="" id="form2" name="form2">
+        <input type="text">
+        <input type="submit">
+     </form>
+
+    <form action="" id="form">
+
+        <input type="text" id="name" name="name" placeholder="name">
+        <input type="text" id="salary" name="salary" placeholder="salary">
+        <input type="text" id="age" name="age" placeholder="age">
+        <button>Submit</button>
+
+
+
+    </form>
+
+    <script>
+
+        // let form =document.getElementById("form")
+        // console.log(form)
+        // let btn =document.querySelector("button");
+        // console.log(btn)
+
+
+
+
+
+
+        // function clickk(){
+        //     console.log("i am clciked ")
+        // }
+
+        
+// btn.onclick=function(){
+//     console.log("iam cloic3")
+// }
+
+
+// btn.addEventListener("click",function(){
+//     console.log("i am xclicked ")
+// })
+
+
+
+let form=document.getElementById("form")
+form.addEventListener("submit",function(event){
+    event.preventDefault()
+    console.log("form submitted")
+
+//1
+    // let name=document.querySelector("#name")
+    // let salary=document.querySelector("#salary")
+    // let age=document.querySelector("#age")
+    // console.log(name,salary,age)
+
+    //2 - 
+    // console.log(event.target)
+    // for(let elt of event.target){
+    //     console.log(elt)
+    // }
+
+    //3 - document.form
+
+
+//   console.log(document.forms[0])
+
+  for(let elt of document.forms['form2']){
+    console.log(elt)
+  }
+
+
+  
+
+
+
+
+
+
+})
+
+    </script>
+
+
+    
+</body>
+</html>
