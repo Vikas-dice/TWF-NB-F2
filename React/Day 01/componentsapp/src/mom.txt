@@ -1,0 +1,15 @@
+
+Date 5th dec , 2024
+
+Last Class - react setup , intro, histro , syllabus ,components intro
+
+1-components (functional components,class components)
+
+
+------------------------------------------
+functional components
+components- jsx file ( js+xml)
+
+
+
+
