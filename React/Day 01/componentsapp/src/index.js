@@ -1,9 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-
-import Parent from './ComponetWiseCommunication/FunctionalComponents/Parent';
-import Paren1 from './ComponetWiseCommunication/FunctionalComponents/Paren1';
+import App from './State/Functional/App';
 
 
 
@@ -20,7 +18,7 @@ root.render(
     {/* <Parent/> */}
 
 
-<Paren1/>   
+<App/>
   </React.StrictMode>
 );
 
