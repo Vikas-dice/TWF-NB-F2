@@ -1,0 +1,21 @@
+
+
+Date 14th dec , 2024
+
+Last Class - Revise 
+-basic react intro and setup
+-features
+-components
+-functional and class components
+-data communication(function , class)
+
+-data communication-class components
+case 1 -p-c
+case 2 -c-p 
+case 3 - c-children 
+
+state
+-functional,class
+
+-------------------------
+Doubts ??
