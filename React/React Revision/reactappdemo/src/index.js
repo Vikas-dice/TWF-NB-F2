@@ -2,14 +2,15 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 
-import CounterApp from './State/Functional/CounterApp';
+import App2 from '././LifeCycle/ClassComponents/App2'
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-<CounterApp/>
+<App2/>
   </React.StrictMode>
 );
 
 
+  
