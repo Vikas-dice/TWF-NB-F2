@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 
-import App2 from '././LifeCycle/ClassComponents/App2'
+import App2 from '././LifeCycle/Functional/App2'
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
