@@ -9,7 +9,7 @@ export default function List(props) {
 
             {
             props.todos.length>0 ? props.todos.map((value,index,arr)=>{
-               return <li className="list-group-item">{value}</li>
+               return <li className="list-group-item" key={index}>{value} </li>
 
 
             })
