@@ -1,0 +1,92 @@
+Date 4th dec , 2024
+
+
+React Intro
+
+
+- IS REACT K COURSE M AANKHIRI TAK TIKNA H , ISI SE NOKRI LGEGI
+-KUCH SMJH AAYE YA NA AAYE , TIKE RHNA H 
+- JS KAMJOR H KYA MUHHE REACT HOPYGI ? BILKUL HOPYGI 
+- M VACHAN DETA HU M CLASS M REGULAR RHNGA KYUNKI MERE PAAS YEHI EK AANKHIRI MAUKA H BEROJGAARI KA TAG HTANE KA 
+
+
+----------------------------------------------------------------
+
+
+React - 
+
+Ghost Problem 
+2011 - fb 
+
+msg - red button
+
+read - red button - state change 
+unread - read 
+
+ghost Problem -
+
+lib - react - virtual dom
+
+real dom - virtual dom 
+
+js dom - real dom 
+virtual dom - dom tree - head - body - eleltr - sublelet 
+
+Syllabus 
+
+-class components 
+--functional components- industry -functional comp
+
+-Components (class and functional)
+-Data communication (class and functional)-component communication
+-Component Life Cycle (class and functional)
+-App wise communication(class and functional)
+-hooks
+-Context API
+-state management (redux , reduxtoolkit)
+-middlewares (Thunk , saga)
+-misc
+-Projects
+-----------------------------------------------------------
+
+Day 0
+Basic Setup 
+
+1-functional Setup
+2- class Setup
+
+
+q1- lib vs framewordk
+react - ui lib
+vue js -framewordk
+angular js - framewordk
+
+lib vs framewordk
+- lib - specific task 
+react -ui lib - ui
+- routing -react native - 3rd party lib/packages
+-https - server - react natiev X - 3rd party lib/packages
+
+framewordk-routing done
+httsp- req - native - 
+-----------------------------------------------------------------
+
+Q2- npm node package manager 
+-playstrore 
+android -playstore - 
+ios - apple store - 
+
+js - ecosystem - 3rd party package.lib= npm
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-import App from './State/Functional/App';
+
+import CounterApp from './State/Functional/CounterApp';
 
 
 
@@ -18,7 +19,7 @@ root.render(
     {/* <Parent/> */}
 
 
-<App/>
+<CounterApp/>
   </React.StrictMode>
 );
 

@@ -7,9 +7,6 @@ export default function Input(props) {
     // console.log("---",event)
     console.log(event.target.value)
     settodo(event.target.value)//todo=go to school
-
-
-
   }
 
   const submitt=(event)=>{
