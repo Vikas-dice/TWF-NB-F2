@@ -23,6 +23,7 @@ const user= createSlice({
     reducers:{
         setEmail:(state,action) => {state.currentEmail=action.payload},
         setPassword:(state,action) => {state.currentPassword=action.payload},
+        logout:(state)=>{state.isLogin="false"}
        
     },
     extraReducers:(builder)=>{
@@ -43,7 +44,7 @@ const user= createSlice({
     console.log(action.payload, "in builder.addcase fulfilled")
     console.log(state.currentEmail,state.currentPassword)
     for(let i=0;i<action.payload.length;i++){
-        if(action.payload[i].email === state.currentEmail  ){
+        if(action.payload[i].email == state.currentEmail && action.payload[i].password == state.currentPassword ){
            state.isLogin="true" 
         //    console.log("true hogya")
         }
@@ -63,6 +64,6 @@ const user= createSlice({
     }
 })
 
-export const {setEmail,setPassword} = user.actions
+export const {setEmail,setPassword, logout} = user.actions
 
 export default user.reducer
